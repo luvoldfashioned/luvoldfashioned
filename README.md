@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=뽀송이꼬&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#d8daff&height=200&section=header&text=뽀송이꼬&animation=fadeIn)
