@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=luvoldfashined&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=luvoldfashined&animation=fadeIn)
