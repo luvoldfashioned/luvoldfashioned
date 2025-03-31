@@ -1,7 +1,4 @@
 ## LUV OLDFASHIONED
-![AnimefoodGIF](https://github.com/user-attachments/assets/79e020f7-4506-4cb7-a3b1-bb61082c7d38)
-
-
 <!--
 **luvoldfashioned/luvoldfashioned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
