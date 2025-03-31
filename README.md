@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=200&section=header&text=luvoldfashioned)
+![header](https://capsule-render.vercel.app/api?type=wavㅑㅜㅎ&color=auto&height=200&section=header&text=luvoldfashioned%20뽀송이꼬)
