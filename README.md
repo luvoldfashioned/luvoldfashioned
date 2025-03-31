@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-// Header 코드
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=뽀송이꼬)
