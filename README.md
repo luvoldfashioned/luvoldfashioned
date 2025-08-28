@@ -33,4 +33,7 @@ Here are some ideas to get you started:
     <a href=https://www.instagram.com/luvoldfashioned/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luvoldfashioned/"> </a>
     <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a>
 </div> 
+<div align= "center">
+    [![luvoldfasioned's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvoldfasioned)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <br> 
