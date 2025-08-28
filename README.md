@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvoldfashioned&show_icons=true&theme=tokyonight&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvoldfashioned&layout=compact&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=oceandropthealbum)](https://solved.ac/oceandropthealbum)
