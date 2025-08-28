@@ -34,10 +34,10 @@ Here are some ideas to get you started:
     <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a>
 </div> 
 <br> 
-<div align= "center">
+
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvoldfashioned&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvoldfashioned&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <div align = "center">
     [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oceandropthealbum)](https://solved.ac/oceandropthealbum)
