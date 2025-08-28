@@ -36,7 +36,8 @@ Here are some ideas to get you started:
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvoldfasioned&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     <div align = "center">
-        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oceandropthealbum)](https://solved.ac/oceandropthealbum)
+        [![Solved.ac
+        프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oceandropthealbum)](https://solved.ac/oceandropthealbum)
     </div>
     </div>
 
