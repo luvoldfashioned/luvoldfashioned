@@ -26,9 +26,10 @@ Here are some ideas to get you started:
     <a href=https://www.instagram.com/luvoldfashioned/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luvoldfashioned/"> </a>
     <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a>
 </div> 
+
+<img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 30%>
+
 <br> <br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvoldfashioned&show_icons=true&theme=tokyonight&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvoldfashioned&layout=compact&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
-
-<img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width =30%>
