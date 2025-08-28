@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br> <br> 
 
 
-<hr style="border-top: 2px solid black;">
+<hr style="border-top: 0.1px solid black;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvoldfashioned&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvoldfashioned&layout=compact&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
