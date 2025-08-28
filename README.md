@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요!🖐️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 상명대학교 컴퓨터과학전공 염승빈입니다!<br>느리지만 나아가고있습니다🌱🏃 </div> <br>
-    <img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 10%>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 상명대학교 컴퓨터과학전공 염승빈입니다!<br>느리지만 나아가고있습니다🌱🏃 </div>
 
 </div> <br>
 <div align= "center">
     <a href=https://www.instagram.com/luvoldfashioned/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luvoldfashioned/"> </a>
     <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a>
+     <img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 20%>
 </div> 
 
 
