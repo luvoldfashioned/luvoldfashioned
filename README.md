@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a>
 </div> 
 
-<img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 30%>
+<img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 10%>
 
 <br> <br> 
 
