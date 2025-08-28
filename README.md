@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요!🖐️ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 상명대학교 컴퓨터과학전공 염승빈입니다!<br>느리지만 나아가고있습니다🌱🏃 </div> 
+    <img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 10%>
 
 </div> <br>
 <div align= "center">
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
     <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a>
 </div> 
 
-<img src = "https://github.com/user-attachments/assets/31524962-7977-4cf2-96e8-e5303349df50" width = 10%>
 
 <br> <br> 
 
