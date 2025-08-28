@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvoldfashioned&layout=compact&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luvoldfasioned)](https://solved.ac/luvoldfasioned)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oceandropthealbum)](https://solved.ac/oceandropthealbum)
