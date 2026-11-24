@@ -1,31 +1,23 @@
-## LUV OLDFASHIONED
-<!--
-**luvoldfashioned/luvoldfashioned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=180&text=luvoldfasioned&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&text=Seungbeen%20Yeom&animation=fadeIn&fontColor=ffffff&fontSize=44" />
 </div>
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요!🖐️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 상명대학교 컴퓨터과학전공/휴먼AI공학전공 염승빈입니다!<br>나아가고있습니다🌱🏃 </div>
 
-</div> <br>
-<div align= "center">
-    <a href=https://www.instagram.com/luvoldfashioned/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luvoldfashioned/"> </a>
-    <a href=https://velog.io/@luvoldfashioned/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luvoldfashioned/posts"> </a><br>
-</div> 
+<div align="center">
+  <h3>상명대학교 컴퓨터과학전공 · 휴먼AI융합전공 염승빈</h3>
+  <p>화면 구현부터 API·AI 모델 연동과 동작 검증까지 서비스 흐름을 연결합니다.</p>
+  <a href="https://velog.io/@luvoldfashioned/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog" />
+  </a>
+</div>
 
-<br> <br> 
+---
 
+### Projects
+
+- **[MakeAWish](https://github.com/makery-team)** — 수제 맞춤형 케이크 주문·상담 O2O 플랫폼 (`React Native · Expo`, `React · Vite`, `FastAPI · Gemini`, `Spring Boot`)
+- **[BIFUSION](https://github.com/NoDataNoLife)** — 생의학 이미지 증강·학습·추론 웹 플랫폼 (`React · TypeScript · TanStack Query · Zustand`, `FastAPI · Celery`)
+
+### Tech Experience
+
+- **App & Web**: Flutter, React Native (Expo), React, TypeScript, Zustand, TanStack Query
+- **Backend & AI**: Python, FastAPI, Google Gemini API, Spring Boot (유지보수·수정)
