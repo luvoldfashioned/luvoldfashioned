@@ -4,7 +4,6 @@
 
 <div align="center">
   <h3>상명대학교 컴퓨터과학전공 · 휴먼AI융합전공 염승빈</h3>
-  <p>화면 구현부터 API·AI 모델 연동과 동작 검증까지 서비스 흐름을 연결합니다.</p>
   <a href="https://velog.io/@luvoldfashioned/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog" />
   </a>
